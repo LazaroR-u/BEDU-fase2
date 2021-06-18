@@ -1,0 +1,77 @@
+blended learning 
+aprendizaje asincrono y sincrono, no en vivo y en vivo. 
+ASINCRONO 
+lecturas, practicas, contenido en linea. 
+
+SINCRONO 
+clases en linea, exposicion, ejemplos.
+
+FASE 1
+preworks
+antes de la sesion grupal con el experto
+works
+
+EVALUACION PARCIAL 
+
+FASE 2 
+preworks 
+works 
+postworks
+proyecto
+
+
+EVALUACION PARCIAL
+
+FASE 3 
+-preworks
+-works
+-postworks
+-preparacion de proyecto
+
+
+-PROTOTYPE DAY
+presentacion de proyecto
+
+
+Requisitos de acreditacion 
+-cumplir con el reglamento 
+-asistencia y prework min 80% 
+-Aprobacion de test y/o proyectos fase 1.
+-Evaluacion del proyecto guia
+
+
+Fase 1 
+introduccion a base de datos 
+
+
+test 9-10 junio 
+
+Fase 2 
+ESTADISTICA Y PROGRAMACION CON R 
+PROCESAMIENTO DE DATOS CON PYTHON 
+
+proyecto- fecha limite: 12 agosto 
+
+
+Fase 3 
+ANALISIS DE DATOS CON PYTHON 
+MACHINE LEARNING
+
+prototype fecha limite: 11 noviembre 
+
+---------------------
+
+PREWORK 
+antes de clase 1.5hrs.
+
+WORK 
+durante la clase 3hrs.
+
+POSTWORK 
+proyecto 1.5hrs.
+
+
+
+
+
+
